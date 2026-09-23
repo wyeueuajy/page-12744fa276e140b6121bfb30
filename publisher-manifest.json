@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4caddbedb7c794ba86b81783",
+  "owner": "wyeueuajy",
+  "repo": "page-12744fa276e140b6121bfb30",
+  "title": "七八云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12744fa276e140b6121bfb30",
+      "a": "七八云",
+      "b": "2027最新官网",
+      "entity": "七八云",
+      "brand": "七八云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d7ba9e97667e4e310af7100a381c21d279608d926d213a4346c29184812d8a3",
+      "content": {
+        "primary_entity": "七八云",
+        "keyword1": "七八云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，七八云围绕不同网络场景提供三档订阅方案，基础版每月 100GB 流量可满足轻度浏览与基础流媒体，旗舰版每月 300GB 流量覆盖全节点原生流媒体解锁和 IPLC 专线游戏加速，团队版每月 1000GB 流量面向多设备协作与高带宽需求。三档均支持按年付费，年付价格为月付十个月左右，购买前可先确认设备数量和流量习惯。",
+          "AI_HERO_SUBTITLE": "三档订阅适配日常与团队需求",
+          "AI_HERO_INTRO": "七八云提供基础版、旗舰版和团队版三档订阅，主要区别在每月流量、同时在线设备数量、流媒体解锁范围和线路类型。轻度使用选择基础版即可，看重流媒体与游戏低延迟可选旗舰版，团队多设备协作则适合团队版。",
+          "AI_VISUAL_TITLE": "七八云订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付价格为月付十个月左右",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和订阅周期三个角度判断适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，差距明显，可对照日常用量判断。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台，多人共用时优先看设备上限。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "三档均提供年付选项，年付价格约为月付的十个月，长期使用可以优先考虑按年购买。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统需要搭配对应的客户端方式进行订阅配置，选择时可先确认自己的设备类型与订阅周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、年付 ¥150/年，适合轻度浏览；旗舰版 ¥35/月、年付 ¥350/年，含全节点原生流媒体解锁与 IPLC 专线游戏加速；团队版 ¥85/月、年付 ¥850/年，支持 20 台设备与定制路由。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "七八云订阅配置从套餐选择开始，依次确认流量、设备上限与客户端订阅导入方式。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路类型，确认满足当前设备和使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依据所用客户端的订阅导入说明，将订阅信息填入对应客户端并保存生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "先确认设备数量与流量习惯，再对照三档套餐选择并完成客户端订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，超出数量可升级套餐或额外添加设备。",
+          "AI_FAQ_ANSWER_2": "支持 Clash 订阅链接导入，在客户端中粘贴订阅地址后更新配置即可加载节点。",
+          "AI_FAQ_ANSWER_3": "基础版适合轻度浏览；旗舰版流量更多且含 IPLC 专线，适合游戏与流媒体；团队版适合多设备办公场景。",
+          "AI_FAQ_ANSWER_4": "提供月付与年付两种周期，年付方案折算后每月费用更低，可在套餐页面查看具体价格。",
+          "AI_FAQ_ANSWER_5": "日常使用建议选择与宽带运营商匹配的节点；观看流媒体或游戏时优先使用专线或高带宽节点。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "Clash 订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_4": "月付和年付的计费周期有什么不同？",
+          "AI_FAQ_QUESTION_5": "如何切换节点获得更稳的连接？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ed-c72c245ae8t.com",
+    "host": "xn--ed-c72c245ae8t.com"
+  },
+  "file_hashes": {
+    "index.html": "662d47b97254917521d44f2df94f7c969455958bf3a9d90e607c872a1f47ee15",
+    "sitemap.xml": "67717433e066c07e0f36ff1161dc7ff1b3f2685dc7867d9b7c2163862aefe29d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7fa4afac06b6170b6ac8a52f6b8b9087ca7516c4d7d12ba561edbd2040668197",
+    "robots.txt": "27a6a1a258d771a022d7dad739d3413d0a36a82ae9d5c41fe3b37640fae34bbc",
+    "348b04f6fac7adba125f7ce12fc0bcbb.txt": "1f78c1370d83d18d21c6cce30869635e770fb95e7a7a32b2aff1c5cabfd5c631"
+  },
+  "revision": "a3febbf544fe69b1377eed0ef2e270cfc31f1009c2950edb4751a35f3eb30fb9"
+}
